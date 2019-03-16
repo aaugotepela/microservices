@@ -1,0 +1,6 @@
+https://www.baeldung.com/spring-cloud-netflix-eureka
+
+eureka-server
+
+http://localhost:8761/
+http://localhost:8080/get-greeting
