@@ -1,0 +1,3 @@
+web, eureka discovery, feign
+
+http://localhost:8080/rest/hello/client
