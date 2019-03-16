@@ -1,0 +1,6 @@
+zuul, eureka discovery
+
+http://localhost:8080/rest/hello/client
+
+http://localhost:8079/api/client/rest/hello/client
+http://localhost:8079/api/server/rest/hello/client
